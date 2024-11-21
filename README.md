@@ -43,7 +43,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/arunkumar1124/MAD-LAB-EXPERIMENT-REPORT.git
+git clone https://github.com/svakash31/MAD-LAB
 Navigate to the project directory:
 
 bash
