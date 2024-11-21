@@ -11,6 +11,7 @@ Login System:
 
 Description: The system is designed with an emphasis on security, featuring username and password validation, error handling for incorrect login attempts, and session management to ensure a smooth user experience.
 Usage: Users can log in with their credentials, which are verified before granting access to the main application screen.
+
 Font Change Functionality:
 
 Description: Users can dynamically change the font style and size for a more personalized experience.
@@ -19,19 +20,23 @@ Calculator:
 
 Description: A basic arithmetic calculator integrated into the application.
 Usage: Users can perform simple mathematical operations like addition, subtraction, multiplication, and division directly through the app’s interface.
+
 Database Connectivity:
 
 Description: This module enables the application to connect to a database, perform queries, and store or retrieve data.
 Usage: The connection setup involves specifying database parameters like type, server address, and user credentials.
+
 Credential Verification:
 
 Description: An additional security feature that includes email verification, two-factor authentication (2FA), and a password strength checker.
 Usage: Users must verify their email after registration, and optionally, they can enable 2FA for added security.
+
 TTS (Text-to-Speech) & STT (Speech-to-Text):
 
 TTS:
 Description: Converts written text into audible speech, improving accessibility and user engagement.
 Usage: The app reads content aloud, benefiting users with reading difficulties or those who prefer auditory feedback.
+
 STT:
 Description: Transcribes spoken language into text, enabling voice commands and hands-free interaction with the application.
 Usage: Users can dictate messages, control app features, or transcribe audio in real time.
